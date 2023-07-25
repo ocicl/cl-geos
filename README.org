@@ -1,0 +1,10 @@
+* cl-geos
+
+Common Lisp bindings to GEOS.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/daewok/cl-geos.git   |
+| commit  | 07e5238  |
+| systems | cl-geos |
+|---------+-------------------------------------------|
+
